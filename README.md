@@ -150,14 +150,3 @@ cd ResuMatch
 
 </details>
 
-
-
-## Contributors
-
-- Rajesh Adhikari
-- Subash Lamichhane
-- Sujan Koirala
-
-## Acknowledgments
-
-Special thanks to Samsung Innovation Campus (SIC) for the opportunity to develop this project.
