@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+
+# Uploads
+uploads/
+
+# OS
+.DS_Store
+
