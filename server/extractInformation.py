@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 from model.experienceScore import get_experience_score
 
-nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("en_core_web_sm")
 skill_pattern_path = "jz_skill_patterns.jsonl"
 ruler = nlp.add_pipe("entity_ruler", before="ner")
 ruler.from_disk(skill_pattern_path)
