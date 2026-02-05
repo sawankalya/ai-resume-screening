@@ -1,4 +1,4 @@
-# ai-resume-screener
+# Ai-resume-screener
 
 ## Overview
 
