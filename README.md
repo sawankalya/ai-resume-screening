@@ -1,8 +1,8 @@
-# ResuMatch: Automated Resume Screening System
+# ai-resume-screener
 
 ## Overview
 
-ResuMatch is an advanced automated resume screening system that leverages artificial intelligence and natural language processing to efficiently match resumes with job descriptions. The project aims to streamline the recruitment process by providing accurate and objective resume evaluation.
+ai-resume-screener is an advanced automated resume screening system that leverages artificial intelligence and natural language processing to efficiently match resumes with job descriptions. The project aims to streamline the recruitment process by providing accurate and objective resume evaluation.
 
 ## Key Features
 
